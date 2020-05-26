@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="916a9af5-ad1a-4049-b525-686b326f488c" name="Default Changelist" comment="" />
+    <list default="true" id="916a9af5-ad1a-4049-b525-686b326f488c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cbt/tests/NavigationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cbt/tests/NavigationTests.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cNRxAd1GktwDiTnAHxE63y0Cdl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +40,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.NavigationTests">
+  <component name="RunManager" selected="Application.TitleVerification2">
     <configuration name="BrowserFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.BrowserFactory" />
       <module name="BasicNavigationTest" />
@@ -63,8 +67,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TitleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification" />
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleVerification2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification2" />
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TitleVerification2" />
+        <item itemvalue="Application.TitleVerification" />
         <item itemvalue="Application.NavigationTests" />
         <item itemvalue="Application.BrowserFactory" />
       </list>
@@ -100,22 +132,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="441" y="225" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1590377455257" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1590385907840">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1590452839614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590385907840" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1590385907839">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590452839614" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1590452839614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590385907839" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1590385907838">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590452839614" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1590452839614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590385907838" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1590385907839">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590452839614" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1590452839614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590385907839" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590452839614" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590376323414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
