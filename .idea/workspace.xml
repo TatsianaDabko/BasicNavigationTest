@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="916a9af5-ad1a-4049-b525-686b326f488c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cbt/tests/NavigationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cbt/tests/NavigationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,65 +39,103 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.TitleVerification2">
-    <configuration name="BrowserFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.BrowserFactory" />
+  <component name="RunManager" selected="TestNG.MoreSpoons.moreSpoonsTest">
+    <configuration name="Cart.cartTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BasicNavigationTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="PATTERN" value="homeWork4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="homeWork4" />
+      <option name="MAIN_CLASS_NAME" value="homeWork4.Cart" />
+      <option name="METHOD_NAME" value="cartTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.NavigationTests" />
+    <configuration name="Links" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BasicNavigationTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cbt.tests.*" />
+          <option name="PATTERN" value="homeWork4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="homeWork4" />
+      <option name="MAIN_CLASS_NAME" value="homeWork4.Links" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TitleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification" />
+    <configuration name="Links.linksTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BasicNavigationTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="PATTERN" value="homeWork4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="homeWork4" />
+      <option name="MAIN_CLASS_NAME" value="homeWork4.Links" />
+      <option name="METHOD_NAME" value="linksTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TitleVerification2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification2" />
+    <configuration name="MoreSpoons.cheapSpoonsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BasicNavigationTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="PATTERN" value="homeWork4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="homeWork4" />
+      <option name="MAIN_CLASS_NAME" value="homeWork4.MoreSpoons" />
+      <option name="METHOD_NAME" value="cheapSpoonsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreSpoons.moreSpoonsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homeWork4" />
+      <option name="MAIN_CLASS_NAME" value="homeWork4.MoreSpoons" />
+      <option name="METHOD_NAME" value="moreSpoonsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TitleVerification2" />
-        <item itemvalue="Application.TitleVerification" />
-        <item itemvalue="Application.NavigationTests" />
-        <item itemvalue="Application.BrowserFactory" />
+        <item itemvalue="TestNG.MoreSpoons.moreSpoonsTest" />
+        <item itemvalue="TestNG.MoreSpoons.cheapSpoonsTest" />
+        <item itemvalue="TestNG.Cart.cartTest" />
+        <item itemvalue="TestNG.Links" />
+        <item itemvalue="TestNG.Links.linksTest" />
       </list>
     </recent_temporary>
   </component>
@@ -132,25 +169,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="441" y="225" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1590377455257" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1590452839614">
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1591294905313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590452839614" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1590452839614">
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591294905313" />
+    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1591294905312">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590452839614" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1590452839614">
+    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591294905312" />
+    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1591294905312">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590452839614" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1590452839614">
+    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591294905312" />
+    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1591294905312">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590452839614" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590376323414">
+    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591294905312" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1591386467275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590376323414" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591386467275" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590597644688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590597644688" />
   </component>
 </project>
